@@ -13,7 +13,7 @@ Sistema de gestão de relacionamento com clientes desenvolvido em Python.
 ## 🛠️ Tecnologias
 
 - Python
-- Flask
+- Formulário
 - Google Sheets API
 - Automação com n8n
 - Visual Studio Code
